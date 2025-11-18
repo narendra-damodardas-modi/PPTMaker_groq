@@ -11,6 +11,8 @@ roll_number = input("Enter the roll number: ")
 
 def get_all_slides_content(topic, num_slides):
     """
+    diyoko7616@etramay.com
+    fotojo2540@agenra.com
     Call the Groq API once to generate content for slides 2 to num_slides.
     The AI outputs slide content separated by a string of 10 dollar symbols ($$$$$$$$$$).
     Each slide has a title (first line) followed by bullet points.
